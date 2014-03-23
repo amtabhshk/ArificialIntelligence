@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Bapu/workspace/JavaFxlib/jfxrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bapu/workspace/TTSlibrary/lib/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bapu/workspace/TTSlibrary/lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bapu/workspace/TTSlibrary/lib/cmudict04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bapu/workspace/TTSlibrary/lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bapu/workspace/TTSlibrary/lib/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bapu/workspace/TTSlibrary/lib/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bapu/workspace/TTSlibrary/lib/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bapu/workspace/TTSlibrary/lib/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bapu/workspace/TTSlibrary/lib/mbrola.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bapu/workspace/JsoupLibrary/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bapu/workspace/wav.to.flac.encoderLibrary/javaFlacEncoder-0.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

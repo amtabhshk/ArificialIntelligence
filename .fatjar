@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Feb 02 18:14:03 IST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ArificialIntelligence_fat.jar
+manifest.mergeall=true
+manifest.mainclass=dev.ai.io.Boot
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
