@@ -23,22 +23,22 @@ public class DiscisionForSlangs {
 			abuse= "This is a very discent application,so please...";
 			break;
 		case 5:
-			abuse= "I'll cut your penis,and put it in your mouth";
+			abuse= "****************";
 			break;
 		case 6:
 			abuse= "you bitch";
 			break;
 		case 7:
-			abuse= "did you learnt it from your home,asshole..";
+			abuse= "**************";
 			break;
 		case 8:
 			abuse= "ok...you pussy..enough";
 			break;
 		case 9:
-			abuse= "who tought you this kind of vulgar words...:)";
+			abuse= "************************)";
 			break;
 		case 10:
-			abuse= "your boobs are nice...you motherfucker";
+			abuse= "************************";
 			break;
 
 		default:
